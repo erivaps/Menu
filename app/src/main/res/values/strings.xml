@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="question">¿What would you like to order today?</string>
+    <string name="txtEntrada">Starter</string>
+    <string name="txtFondo">main</string>
+    <string name="txtOrder">order</string>
+    <string name="txtOrdered">order:</string>
+    <string name="txtNoSelect">Please select onea least </string>
+</resources>
